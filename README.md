@@ -75,7 +75,7 @@ while True:
 ![EX-02 SERVER](https://github.com/Kalpanareshma/EX-2/assets/122040453/760b4068-a257-4af8-8df4-4cdf3465772e)
 
 
-RESULT :
+# RESULT :
 Thus, python program to perform stop and wait protocol was successfully executed.
 
 
