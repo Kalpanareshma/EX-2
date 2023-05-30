@@ -19,15 +19,25 @@ To write a python program to perform stop and wait protocol
 ## Developed : Kalpana S
 ## Reg no : 212222040069
 import socket
+
 s=socket.socket()
+
 s.bind(('localhost',8000))
+
 s.listen(5)
+
 c,addr=s.accept()
+
 size=int(input("Enter number of frames to send:"))
+
 l=list(range(size))
+
 s=int(input("Enter Window Size:"))
+
 st=0
+
 i=0
+
 while True:
 	while(i<len(l)):
 		st+=s
