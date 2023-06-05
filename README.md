@@ -52,10 +52,9 @@ while True:
 
 ## OUTPUT :
 ## CLIENT :
-![EX-02 CLIENT](https://github.com/Kalpanareshma/EX-2/assets/122040453/7a2b6672-98d7-4466-8968-41becc4d4635)
+![ex02 client output](https://github.com/Kalpanareshma/EX-2/assets/122040453/9ea6bbcf-a64e-4da7-b672-abef52d97a58)
 ## SERVER :
-![EX-02 SERVER](https://github.com/Kalpanareshma/EX-2/assets/122040453/760b4068-a257-4af8-8df4-4cdf3465772e)
-
+![ex02 server output](https://github.com/Kalpanareshma/EX-2/assets/122040453/7ecf85ab-7180-4419-935d-a7b76a75ac4c)
 
 # RESULT :
 Thus, python program to perform stop and wait protocol was successfully executed.
